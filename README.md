@@ -1,4 +1,4 @@
-DEAR: Decision-based Ensemble Attacks via Racing
+DAR: Decision-based Attacks via Racing
 ==============================
 
 Welcome to DEAR, an algorithm that combines racing with decision-based attacks to determine the best method for any network/dataset/restriction.
