@@ -6,8 +6,8 @@ Welcome to DEAR, an algorithm that combines racing with decision-based attacks t
 Getting started:
 To create an Anaconda environment with the necessary dependencies follow these steps:
 ```
-conda create -n DEAR python=3.9.19
-conda activate DEAR
+conda create -n DAR python=3.9.19
+conda activate DAR
 pip install -r requirements.txt
 ```
 
